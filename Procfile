@@ -1,1 +1,1 @@
-worker: python project_bot SN.py
+worker: python project_botSN.py
